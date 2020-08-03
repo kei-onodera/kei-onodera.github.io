@@ -1,0 +1,96 @@
+@charset "UTF-8"
+body{
+  width: 95%;
+  margin: 0 auto;
+}
+
+.header{
+  height: 100%;
+  background-color: #1e336a;
+  font-size: 50px;
+  font-family: "yu gothic";
+  color: #fff;
+  text-align: center;
+}
+
+.aside{
+  width: 25%;
+  min-height: 1000px;
+  height: auto;
+  background-color: #1e336a;
+  float: right;
+  margin-top: 10px;
+  text-align: center;
+  color: #fff;
+  padding: 1%;
+}
+
+p.kei img{
+  border-radius: 50%;
+  border: 2px solid #1e336a;
+  width: 90%;
+  height: 90%;
+}
+
+p.inst img{
+  width: 30%;
+  height: 30%;
+}
+
+p.nasu img{
+  width: 30%;
+  height: 30%;
+}
+
+.name{
+  color: #fff;
+}
+
+.main{
+  width: 85%;
+  min-height: 500px;
+  height: auto;
+  background-color: #fff;
+  margin-top: 10px;
+}
+
+.article{
+  width: 75%;
+  color: #1e336a;
+  border-top: solid #1e336a 2px;
+  border-bottom: solid #1e336a 2px;
+  padding: 0.5em 0 0.5em 1.5em;
+}
+
+.contents{
+  width: 75%;
+  min-height: 250px;
+  height: auto;
+  background-color: #b0e0e6;
+  margin-top: 10px;
+  padding: 0px 10px;
+  font-family: serif;
+}
+
+.tag{
+  color: #fff;
+  width: 100%;
+  min-height: 100%;
+  height: auto;
+  background-color: #1e336a;
+  font-family: "yu gothic"
+}
+
+.footer{
+  height: 50px;
+  background-color: #1e336a;
+  margin-top: 10px;
+  color: #fff;
+  text-align: center;
+  padding-top: 20px;
+}
+
+img{
+  width: 40%;
+  height: 40%;
+}
