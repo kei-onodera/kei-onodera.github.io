@@ -33,11 +33,13 @@ p.kei img{
 }
 
 p.inst img{
+  border-radius: 10px;
   width: 30%;
   height: 30%;
 }
 
 p.nasu img{
+  border-radius: 25px;
   width: 30%;
   height: 30%;
 }
